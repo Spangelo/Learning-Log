@@ -1,12 +1,15 @@
 # Learning-Log
 
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
 
 ## Basic Fundamentals
 
 |Status          |Fundamental                                                   |Resource                                                                                       |
 |:--------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-|[In Progress]   |Programming Foundations with JavaScript, HTML and CSS         |[Duke University on Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome)| 
+| ![In Progress][In Progress]  |Programming Foundations with JavaScript, HTML and CSS         |[Duke University on Coursera](https://www.coursera.org/learn/duke-programming-web/home/welcome)| 
 |Completed Aug 2016|HTML Fundamentals                                           |[SoloLearn](https://www.sololearn.com/learning/1014)                                           |
 |Completed Sep 2016|CSS Fundamentals                                            |[SoloLearn](https://www.sololearn.com/learning/1023)                                           |
 |Completed Sep 2016|JavaScript Fundamentals                                     |[SoloLearn](https://www.sololearn.com/learning/1024)                                           |
@@ -67,4 +70,11 @@
 |**Unity**                        |
 
 
+[Completed]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Completed"
+[In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
+[Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
+|            Status           |   Year   | Course                                                          |                Tutor                        |
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+| ![In Progress][In Progress]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
+| ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                
