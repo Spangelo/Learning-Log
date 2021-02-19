@@ -74,7 +74,7 @@
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Course                                                          |                Tutor                        |
-|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![In Progress][In Progress]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                
+|            Status           |      Course                                                     |                Resource                     |
+|:---------------------------:|:----------------------------------------------------------------|:-------------------------------------------:|
+|                            
+|             
